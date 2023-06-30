@@ -1,2 +1,2 @@
-# emotion-in-text-classifier
-NLP project with Streamlit and Python used to detect emotions in text 
+# nlp-project
+NLP project with Streamlit and Python
